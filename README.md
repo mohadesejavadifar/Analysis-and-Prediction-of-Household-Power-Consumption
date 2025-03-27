@@ -47,3 +47,5 @@ This project demonstrates the application of data science techniques to energy m
 - Incorporate additional features (e.g., voltage, weather data) to improve prediction accuracy.
 - Extend the analysis to multiple days or months for broader trends.
 - Experiment with advanced models like ARIMA or neural networks for time-series forecasting.
+
+![download (2)](https://github.com/user-attachments/assets/b70d3c24-45fe-4cc8-aef2-5a67cd3c2f87)
